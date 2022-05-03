@@ -22,10 +22,8 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <a href="https://www.instagram.com/invites/contact/?i=z24eu3vft4xm&utm_content=1ue2xlg">
     <img width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" />
   </a>  
-  &nbsp;
-  <a href="https://medium.com/@srikanth.bhavirisetty">
-    <img width="28px" src="https://user-images.githubusercontent.com/88539608/166149994-69746a93-13fc-48b6-b7b3-6d7a2f3c6359.png" />
-  </a> 
+  
+ 
 </div>
 <br>
 <br>
