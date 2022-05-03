@@ -11,16 +11,16 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 </p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ramanarayana-bhavirisetty-b800361a5">
-    <img width="30px" src="https://user-images.githubusercontent.com/88539608/166149839-dd953fd2-3c3d-4401-a51f-1c6a714acc73.png" />
+  <a href="https://www.linkedin.com/in/manoj-kumar-yenugula-2464a5188/">
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png?w=740" />
   </a>
   &nbsp;
-  <a href="https://twitter.com/SrikanthBhavir6">
-    <img width="28px" src="https://user-images.githubusercontent.com/88539608/166149935-2887cfec-2d28-4bf1-a700-be61922c0f9b.png" />
+  <a href="https://twitter.com/YMANOJKUMAR18">
+    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/1076/1076981.png?w=740" />
   </a>  
   &nbsp;
   <a href="https://www.instagram.com/invites/contact/?i=z24eu3vft4xm&utm_content=1ue2xlg">
-    <img width="28px" src="https://user-images.githubusercontent.com/88539608/166149970-ff588471-ac41-43ad-8ccc-390f326d207e.png" />
+    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" />
   </a>  
   &nbsp;
   <a href="https://medium.com/@srikanth.bhavirisetty">
