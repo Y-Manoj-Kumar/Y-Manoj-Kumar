@@ -1,10 +1,8 @@
 <div align="center"> <img height="300px" src="https://user-images.githubusercontent.com/88539608/166151051-d684bf35-cd60-4c96-a49d-2bf0f73b94e2.gif" /></a></div>
 
-<h1 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am Ramanarayana Bhavirisetty!</h1>
+<h1 align="center">Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> This is Manoj</h1>
 <br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FE64D9&center=true&lines=Open+source+Enthusiast;Front-End+Web+Developer;Programmer&center=true&width=380&height=45"></a>
-</p>
+ 
 <p align="center" style="margin-top:10px">
 <b>
 Welcome to my Github profile!</b> <br>
