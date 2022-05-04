@@ -72,10 +72,13 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 
 <div align="center">
-  <br>
-  <p><b>Thanks for your time.</b><br>
-     <br><br>
-    <i>Want to collaborate, reach me below.</i> <br><b></b>&nbsp;
+  
+  <p><b>Thanks for your time.</b>
+        <br><br>
+   <p><b>Want to collaborate, reach me below</b><br>
+
+    
+<!--     <i>Want to collaborate, reach me below.</i> <br><b></b>&nbsp; -->
    
 <div align="center">
   <a href="https://www.linkedin.com/in/manoj-kumar-yenugula-2464a5188/">
