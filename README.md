@@ -41,12 +41,12 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 ## 🕰️ Commit Bar Graph
 
 <p align="center">
-<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y-Manoj-Kumar&theme=tokyonight&utcOffset=8" /></a></p>
+<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y-Manoj-Kumar&theme=nord_dark&utcOffset=8" /></a></p>
 
 ## 📊 Profile Graph
 
 <p align="center">
-<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Manoj-Kumar&theme=tokyonight" /></a></p>
+<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Manoj-Kumar&theme=nord_dark" /></a></p>
 
 
 ## :trophy: Git profile Trophies
