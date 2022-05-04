@@ -41,29 +41,29 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 ## 🕰️ Commit Bar Graph
 
 <p align="center">
-<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y-Manoj-Kumar&theme=gruvbox&utcOffset=8" /></a></p>
+<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Y-Manoj-Kumar&theme=tokyonight&utcOffset=8" /></a></p>
 
 ## 📊 Profile Graph
 
 <p align="center">
-<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Manoj-Kumar&theme=gruvbox" /></a></p>
+<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Y-Manoj-Kumar&theme=tokyonight" /></a></p>
 
 
 ## :trophy: Git profile Trophies
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Y-Manoj-Kumar&layout=compact&theme=algolia" alt="Y-Manoj-Kumar" /></a> </p>
 
 
-<!-- 
-## 🐍 Contribution Graph
-<p align="center">
-<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="https://raw.githubusercontent.com/Y-Manoj-Kumar/Y-Manoj-Kumar/main/github-contribution-grid-snake.gif" /></a></p> -->
-
 
 <h3>Github Stats 📈</h3>
 
-| ![Manoj GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Y-Manoj-Kumar&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Manoj-Kumar) |
+| ![Manoj GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Y-Manoj-Kumar&show_icons=true&theme=algolia) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Manoj-Kumar&theme=algolia) |
 | --- | --- |
-| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Y-Manoj-Kumar&theme=light&hide_border=true&line_height=27&width=20) | ![Ram's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Y-Manoj-Kumar&layout=compact&langs_count=8&hide_border=true) | 
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Y-Manoj-Kumar&theme=algolia&hide_border=true&line_height=27&width=20&theme=algolia) | ![Ram's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Y-Manoj-Kumar&layout=compact&langs_count=8&hide_border=true&theme=algolia) | 
+
+
+## 🐍 Contribution Graph
+<p align="center">
+<a href="https://github.com/Y-Manoj-Kumar"><img alt="Y-Manoj-Kumar's Contribution" src="https://github.com/Y-Manoj-Kumar/Y-Manoj-Kumar/blob/main/manoj_snake.gif" /></a></p>
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Y-Manoj-Kumar&theme=github" alt="GitHub Activity Graph" width="100%" />
