@@ -11,24 +11,9 @@
 <b>
 Welcome to my Github profile!</b> <br>
 Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<i>Want to collaborate, reach me below.</i>
-</p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/manoj-kumar-yenugula-2464a5188/">
-    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png?w=740" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/YMANOJKUMAR18">
-    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/1076/1076981.png?w=740" />
-  </a>  
-  &nbsp;
-  <a href="https://www.instagram.com/invites/contact/?i=z24eu3vft4xm&utm_content=1ue2xlg">
-    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" />
-  </a>  
-  
  
-</div>
+</p>
+ 
 <br>
 <br>
 <h3 align="center">A Small Intro! ✍</h3>
@@ -90,10 +75,32 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <br>
   <p><b>Thanks for your time.</b><br>
      <br><br>
-    If you have any queries feel free to contact <br><b></b>&nbsp;
-    <a href="mailto:manojk.yenugula@gmail.com">Click here</a>
-    <img src="https://user-images.githubusercontent.com/88539608/166149465-712166f0-441b-41ae-94e7-0ac254b374f7.png" alt="Simply Easy Learning" height="20" width="20px">
-
+    <i>Want to collaborate, reach me below.</i> <br><b></b>&nbsp;
+   
+<div align="center">
+  <a href="https://www.linkedin.com/in/manoj-kumar-yenugula-2464a5188/">
+    <img width="30px" src="https://cdn-icons-png.flaticon.com/512/185/185964.png?w=740" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/YMANOJKUMAR18">
+    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/1076/1076981.png?w=740" />
+  </a>  
+  &nbsp;
+ <a href="https://www.facebook.com/profile.php?id=100012259202621">
+  <img  width="27px" src="https://cdn-icons-png.flaticon.com/512/889/889102.png?w=740" alt="Facebook"/>
+ </a>
+   &nbsp;
+  <a href="https://www.instagram.com/invites/contact/?i=z24eu3vft4xm&utm_content=1ue2xlg">
+    <img width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" />
+  </a>  
+   &nbsp;
+ 	<a href="mailto:manojk.yenugula@gmail.com">
+   <img width="32px" src="https://cdn-icons-png.flaticon.com/512/718/718343.png?w=740" alt="Gmail"/>
+ </a>
+  
+ 
+</div>
+ 
 
   </a></p>
 </div>
@@ -101,5 +108,5 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 
 
 
-<!-- <h1 align="center">Salut! <br><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"></h1> -->
+ 
 
