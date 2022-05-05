@@ -75,7 +75,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   <p><b>Thanks for your time.</b>
         <br><br>
-   <p><b>Want to collaborate, reach me below</b><br>
+   <p><b>Want's to collaborate, reach me below</b><br>
 
     
 <!--     <i>Want to collaborate, reach me below.</i> <br><b></b>&nbsp; -->
