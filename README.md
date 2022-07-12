@@ -29,7 +29,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
 <h4>Languages</h4>     
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic) ![C#](https://img.shields.io/badge/-C%23-blue)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)   ![C#](https://img.shields.io/badge/-C%23-blue)
 
 
  
