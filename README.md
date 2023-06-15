@@ -93,7 +93,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   <img  width="27px" src="https://cdn-icons-png.flaticon.com/512/889/889102.png?w=740" alt="Facebook"/>
  </a>
    &nbsp;
-  <a href="https://www.instagram.com/invites/contact/?i=z24eu3vft4xm&utm_content=1ue2xlg">
+  <a href="https://instagram.com/_manoj_1910?igshid=ZDc4ODBmNjlmNQ==">
     <img width="28px" src="https://cdn-icons-png.flaticon.com/512/733/733558.png?w=740" />
   </a>  
    &nbsp;
