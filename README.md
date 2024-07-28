@@ -17,7 +17,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
 <br>
 <br>
 <h3 align="center">A Small Intro! ✍</h3>
-<p align="center">Hey!I'm currently pursuing my Bachelors of Technology under the domain of Comupter Science. I'm highly self motivated person , who likes to take initiative and seek out new challenges. I would love to learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.</p>
+<p align="center"> I'm highly self motivated person , who likes to take initiative and seek out new challenges. I would love to learning new things and yes, I'm a fast learner too. I always look upon ways to improve myself in all aspects.</p>
 <br>
  
 
