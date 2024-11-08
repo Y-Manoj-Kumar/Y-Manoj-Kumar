@@ -12,21 +12,7 @@
 Welcome to my Github profile!</b> 
 
 
-<h3>Tech stack I work with 👇</h3>
 
- 
-  
-  
-<h4>Languages</h4>     
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic)   ![C#](https://img.shields.io/badge/-C%23-blue)
-
-
- 
-
-<h4>Version Control</h4>  
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
 
 ## 🕰️ Commit Bar Graph
 
